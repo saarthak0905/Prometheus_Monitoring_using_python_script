@@ -1,0 +1,96 @@
+{
+  "status": "success",
+  "data": {
+    "resultType": "vector",
+    "result": [
+      {
+        "metric": {
+          "businessunit": "digital"
+        },
+        "value": [
+          1593078045,
+          "452727"
+        ]
+      },
+      {
+        "metric": {
+          "businessunit": "cdo"
+        },
+        "value": [
+          1593078045,
+          "206714"
+        ]
+      },
+      {
+        "metric": {
+          "businessunit": "merchant"
+        },
+        "value": [
+          1593078045,
+          "88308"
+        ]
+      },
+      {
+        "metric": {},
+        "value": [
+          1593078045,
+          "9557"
+        ]
+      },
+      {
+        "metric": {
+          "businessunit": "oe"
+        },
+        "value": [
+          1593078045,
+          "7543"
+        ]
+      },
+      {
+        "metric": {
+          "businessunit": "Lending"
+        },
+        "value": [
+          1593078045,
+          "1862"
+        ]
+      },
+      {
+        "metric": {
+          "businessunit": "UM"
+        },
+        "value": [
+          1593078045,
+          "1367"
+        ]
+      },
+      {
+        "metric": {
+          "businessunit": "mall"
+        },
+        "value": [
+          1593078045,
+          "214"
+        ]
+      },
+      {
+        "metric": {
+          "businessunit": "insurance-brokerage"
+        },
+        "value": [
+          1593078045,
+          "30"
+        ]
+      },
+      {
+        "metric": {
+          "businessunit": "labs"
+        },
+        "value": [
+          1593078045,
+          "30"
+        ]
+      }
+    ]
+  }
+}

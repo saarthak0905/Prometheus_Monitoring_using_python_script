@@ -1,0 +1,98 @@
+{
+  "status": "success",
+  "data": {
+    "resultType": "vector",
+    "result": [
+      {
+        "metric": {
+          "techteam": "cdst"
+        },
+        "value": [
+          1593078045,
+          "275"
+        ]
+      },
+      {
+        "metric": {
+          "techteam": "digital_billpayments"
+        },
+        "value": [
+          1593078045,
+          "206"
+        ]
+      },
+      {
+        "metric": {
+          "techteam": "digital_channels"
+        },
+        "value": [
+          1593078045,
+          "89"
+        ]
+      },
+      {
+        "metric": {
+          "techteam": "datain"
+        },
+        "value": [
+          1593078045,
+          "84"
+        ]
+      },
+      {
+        "metric": {
+          "techteam": "merchant_kyb"
+        },
+        "value": [
+          1593078045,
+          "73"
+        ]
+      },
+      {
+        "metric": {
+          "techteam": "digitalcst"
+        },
+        "value": [
+          1593078045,
+          "65"
+        ]
+      },
+      {
+        "metric": {
+          "techteam": "digital_webnmweb"
+        },
+        "value": [
+          1593078045,
+          "65"
+        ]
+      },
+      {
+        "metric": {
+          "techteam": "apps"
+        },
+        "value": [
+          1593078045,
+          "61"
+        ]
+      },
+      {
+        "metric": {
+          "techteam": "ds4"
+        },
+        "value": [
+          1593078045,
+          "61"
+        ]
+      },
+      {
+        "metric": {
+          "techteam": "digital_content"
+        },
+        "value": [
+          1593078045,
+          "60"
+        ]
+      }
+    ]
+  }
+}
